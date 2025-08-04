@@ -1,0 +1,3 @@
+/  https://imkarthikk.com  308
+/blog/*  https://imkarthikk.com/blog/:splat  308
+/about/*  https://imkarthikk.com/about/:splat  308
